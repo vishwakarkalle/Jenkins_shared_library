@@ -1,1 +1,1 @@
-Jenkins Shared Library example script
+Jenkins Shared Library 
