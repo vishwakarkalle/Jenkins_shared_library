@@ -1,1 +1,1 @@
-Jenkins Shared Library script wit notes.
+Jenkins Shared Library example note.
