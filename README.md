@@ -1,1 +1,1 @@
-Jenkins Shared Library example note.
+Jenkins Shared Library example notes and live notes
