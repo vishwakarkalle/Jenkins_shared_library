@@ -1,2 +1,1 @@
-Jenkins Shared Library Script 2024 example notes
-
+Jenkins Shared Library Script 2024
